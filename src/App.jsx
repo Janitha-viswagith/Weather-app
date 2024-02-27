@@ -7,9 +7,9 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
-     
-    </>
+    <div className='taxt-xl font-bold text-center'>
+          hello world
+    </div>
   )
 }
 
